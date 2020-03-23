@@ -39,4 +39,4 @@
 <h2 id="Part3"><b>The inside of the quadrocopter</b></h2>
 <div>
   <p>The control panel I also want to try to design and create myself.</p>
-</div>>
+</div>
