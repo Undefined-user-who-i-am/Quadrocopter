@@ -14,8 +14,8 @@
   </ul>
 </div>
 
-<div>
-  <h2 id="Part1"><b>The inside of the quadrocopter</b></h2>
+<div id="Part1">
+  <h2><b>The inside of the quadrocopter</b></h2>
   <h3>Parts List:</h3>
 <ul>
   <li><b><a href = "https://clck.ru/Md8e7">Arduino UNO ATmega328P CH340 CH340G (Brain of quadrocopter)</a></bhttps://clck.ru/Md9h9></li>
@@ -31,12 +31,14 @@
 </ul>
 </div>
 
-<h2 id="Part2"><b>Quadcopter frame</b></h2>
-<div>
+
+<div id="Part2">
+  <h2><b>Quadcopter frame</b></h2>
   <p>I want to model the quadrocopter frame myself and print it on a 3D printer.</p>
 </div
   
-<h2 id="Part3"><b>The inside of the quadrocopter</b></h2>
-<div>
+
+<div id="Part3">
+  <h2><b>Remote Control</b></h2>
   <p>The control panel I also want to try to design and create myself.</p>
 </div>
