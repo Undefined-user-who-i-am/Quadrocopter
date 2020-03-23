@@ -42,4 +42,4 @@
 <div id="Part3">
   <h2><b>Remote Control</b></h2>
   <p>The control panel I also want to try to design and create myself.</p>
-</div>
+</div> 
