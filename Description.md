@@ -10,7 +10,7 @@
   <ul>
     <li><b>Part 1 - </b><a href = "#Part1">The inside of the quadrocopter</a></li>
     <li><b>Part 2 - </b><a href = "#Part2">Quadcopter frame</a></li>
-    <li><b>Part 3 - </b><a href = "#Part3">Remote Control</a></li>
+    <li><b>Part 3 - </b><a href = "#Part4">Remote Control</a></li>
   </ul>
 </div>
 
@@ -38,7 +38,7 @@
 </div
   
 
-<div id="Part3">
+<div id="Part4">
   <h2><b>Remote Control</b></h2>
   <p>The control panel I also want to try to design and create myself.</p>
 </div>
