@@ -15,7 +15,7 @@
 </div>
 
 <div id="Part1">
-  <h2><b>The inside of the quadrocopter</b></h2>
+  <h2><b>The inside of the quadrocopter</b></h2> 
   <h3>Parts List:</h3>
 <ul>
   <li><b><a href = "https://clck.ru/Md8e7">Arduino UNO ATmega328P CH340 CH340G (Brain of quadrocopter)</a></bhttps://clck.ru/Md9h9></li>
