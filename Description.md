@@ -28,6 +28,7 @@
   <li><b><a href = "https://clck.ru/MdAYf">Battery up to 8 ESC connection board</a></b></li>
   <li><b><a href = "https://clck.ru/MdAbE">3.5mm Golden Bullet Banana Plug for ESC</a></b></li>
   <li><b><a href = "https://clck.ru/MdAcq">Heat resistant soft silicone wire cable</a></b></li>
+  <li><b><a href = "">Signal Receiver (later)</a></b></li>
 </ul>
 </div>
 
